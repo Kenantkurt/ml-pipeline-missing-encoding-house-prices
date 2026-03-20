@@ -10,3 +10,6 @@ End-to-end machine learning pipeline for house price prediction.
 
 ## Result
 RMSE: ~28K
+
+## Key Insight
+Understanding missing data (structural vs real) is critical for building reliable ML pipelines.
